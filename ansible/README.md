@@ -23,7 +23,7 @@ This project demonstrates how to create an AWS EC2 instance using Terraform and 
 - `provider.tf` – AWS provider configuration
 - `ansible/playbook.yml` – automation script for NGINX
 
-## Result
+## Resume
 The EC2 instance was successfully deployed and NGINX is accessible via the public IP address.
 
 ## Note
