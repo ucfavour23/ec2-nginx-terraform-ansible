@@ -31,7 +31,8 @@ This project demonstrates how I provisioned an AWS EC2 instance using Terraform 
 ## Screenshots
 
 ### 1. Terraform Apply
-Add screenshot here
+<img width="1250" height="718" alt="EC2 created successfully" src="https://github.com/user-attachments/assets/d6af499e-03a5-405e-9ffa-90707cff8195" />
+
 
 ### 2. SSH Connection to EC2
 Add screenshot here
