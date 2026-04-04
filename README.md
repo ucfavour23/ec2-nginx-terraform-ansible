@@ -30,15 +30,16 @@ This project demonstrates how I provisioned an AWS EC2 instance using Terraform 
 
 ## Screenshots
 
-### 1. Terraform Apply
-<terraform-apply.png />
+### 1. terraform-apply.png
+<img width="1250" height="718" alt="EC2 created successfully" src="https://github.com/user-attachments/assets/9f9de5a5-dfa0-4814-ac68-2a798b468106" />
+
 
 
 ### 2. SSH Connection to EC2
 <img width="1230" height="706" alt="Connected to EC2 instance" src="https://github.com/user-attachments/assets/51684966-aaf2-4db0-a6ac-20bb27c07ae0" />
 
 
-### 3. NGINX Running on EC2
+### 3. nginx-running.png
 <img width="1179" height="610" alt="Nginx installed on EC2 instance" src="https://github.com/user-attachments/assets/4e471ff7-f958-4995-9a6d-2522467bd3d9" />
 
 
